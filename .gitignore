@@ -1,0 +1,5 @@
+# move_files
+scripts/move_files/fuse/
+scripts/move_files/invoices/
+scripts/move_files/*.txt
+scripts/move_files/compress_files/
